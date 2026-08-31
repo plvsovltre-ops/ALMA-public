@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use an authorized release of this software, cite it as below."
+title: "ALMA Monitor 2"
+type: software
+authors:
+  - family-names: "Sailybayev"
+    given-names: "Yernar"
+version: 0.2.0
+date-released: 2026-08-18
+license: Apache-2.0

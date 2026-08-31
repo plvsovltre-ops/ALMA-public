@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "record_version": "0.1.0",
+  "published_on": "2026-08-31",
+  "source_repository": "plvsovltre-ops/ALMA-Monitor-2",
+  "source_merge_commit": "6ccd385174a58ce1fea1387fdbdae45c280481ed",
+  "source_exact_head": "061b45f7516d324322d48a2eb826c3f0d64edf22",
+  "author": "Yernar Sailybayev",
+  "catalog": "docs/partners/ggf/2025-3676",
+  "grant": "GGF 2025-3676",
+  "checksum_manifest": "SHA256SUMS"
+}
