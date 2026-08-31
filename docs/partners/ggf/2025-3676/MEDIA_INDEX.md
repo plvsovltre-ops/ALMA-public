@@ -17,6 +17,13 @@
 
    Publication-safe outcomes, relationship to OASIS, licensing and attribution.
 
+4. **ALMA and comparable systems**
+
+   A publication-safe Russian-language comparison of ALMA with selected citizen
+   science, civic technology and Rules as Code systems. It documents the scope
+   and limits of the comparison and does not claim endorsement or patent
+   novelty.
+
 ## Materials requiring separate clearance
 
 - field photographs and full observation dossiers;

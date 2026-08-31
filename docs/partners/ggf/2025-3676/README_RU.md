@@ -21,6 +21,9 @@ OASIS. Дальнейшая разработка продолжалась за �
   способы их проверки;
 - [`ALMA_AND_OASIS.md`](ALMA_AND_OASIS.md) — место ALMA в более широкой системе
   гражданской науки;
+- [`ALMA_AND_COMPARABLE_SYSTEMS_RU.md`](ALMA_AND_COMPARABLE_SYSTEMS_RU.md) —
+  краткое сравнение с системами citizen science, civic technology и Rules as
+  Code;
 - [`MEDIA_INDEX.md`](MEDIA_INDEX.md) — материалы, допустимые для распространения;
 - [`ATTRIBUTION_AND_BOUNDARIES.md`](ATTRIBUTION_AND_BOUNDARIES.md) — авторство,
   лицензии и границы публичных утверждений.
