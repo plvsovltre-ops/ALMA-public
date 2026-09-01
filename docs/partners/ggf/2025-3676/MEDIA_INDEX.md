@@ -17,7 +17,13 @@
 
    Publication-safe outcomes, relationship to OASIS, licensing and attribution.
 
-4. **ALMA and comparable systems**
+4. **ALMA Monitor public code and operational status** —
+   <https://github.com/plvsovltre-ops/alma-monitor>
+
+   Public v1 source, tests, governance artifacts and a dated statement that
+   separates the launched closed pilot from the private Monitor 2 successor.
+
+5. **ALMA and comparable systems**
 
    A publication-safe Russian-language comparison of ALMA with selected citizen
    science, civic technology and Rules as Code systems. It documents the scope

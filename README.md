@@ -12,6 +12,15 @@ attribution, positioning and grant-outcome materials. It does **not** contain
 field photographs, observation dossiers, sensitive coordinates, personal
 data, private GIS packages, credentials or the production runtime.
 
+## Code and operational evidence
+
+The executable public v1 lineage is maintained in the separate
+[ALMA Monitor repository](https://github.com/plvsovltre-ops/alma-monitor).
+Its [operational status record](https://github.com/plvsovltre-ops/alma-monitor/blob/main/docs/OPERATIONAL_STATUS.md)
+distinguishes the launched closed pilot from the current private Monitor 2
+successor and from a future unrestricted public service. This catalog is the
+publication-safe record; it is not a substitute for the code repository.
+
 ## Global Greengrants Fund catalog
 
 - [English catalog](docs/partners/ggf/2025-3676/README.md)
@@ -42,4 +51,6 @@ legal status. The open licences do not make private evidence public.
 позиционирование и результаты первоначального гранта GGF. Закрытые полевые
 данные и рабочая инфраструктура здесь не публикуются. ALMA не устанавливает
 нарушение или виновность и не отправляет обращения государственным органам
-автоматически.
+автоматически. Публичная история исполняемого кода доступна в репозитории
+[ALMA Monitor](https://github.com/plvsovltre-ops/alma-monitor), а текущий
+статус контуров — в его [операционной записке](https://github.com/plvsovltre-ops/alma-monitor/blob/main/docs/OPERATIONAL_STATUS.md).

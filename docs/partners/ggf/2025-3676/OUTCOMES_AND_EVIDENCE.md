@@ -27,6 +27,8 @@ authority. A competent institution remains responsible for checking the facts.
 ## Public verification points
 
 - Public project site: <https://www.alma.eco>
+- Public v1 code and deployment history: <https://github.com/plvsovltre-ops/alma-monitor>
+- Current release-boundary statement: <https://github.com/plvsovltre-ops/alma-monitor/blob/main/docs/OPERATIONAL_STATUS.md>
 - Mergin Maps case study:
   <https://merginmaps.com/case-studies/protecting-historic-almaty-orchards-with-mergin-maps-and-gemini>
 - Source, authorship and release metadata: repository `AUTHORS`, `NOTICE` and
@@ -36,7 +38,9 @@ authority. A competent institution remains responsible for checking the facts.
 
 The public website reports the methodology and aggregated geography. Closed
 pilot records are intentionally not used as public evidence unless separately
-reviewed and anonymised.
+reviewed and anonymised. The public code repository documents the v1
+implementation and its release lineage; the private Monitor 2 runtime is not
+represented as reproducible source in this catalog.
 
 ## Additional contribution after the grant
 
